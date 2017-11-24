@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'username', 1 => 'password', '_autoinc' => false, '_pk' => 'username', '_type' => array ( 'username' => 'varchar(20)', 'password' => 'varchar(50)', ), );?>
